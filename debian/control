@@ -1,0 +1,22 @@
+Source: python-dependency-injector
+Priority: optional
+Maintainer: niitp
+Build-Depends: debhelper (>= 9),
+		dh-python,
+		cython,
+		python-all,
+		python-six,
+		python-doc,
+		python-sphinx,
+		python-unittest2,
+		python-coverage,
+		python-flake8
+Standards-Version: 3.44.0
+Section: python
+Homepage: https://github.com/ets-labs/python-dependency-injector/tree/3.44.0
+
+Package: python-dependency-injector
+Section: python
+Architecture: amd64
+Depends: ${misc:Depends}, libc6 (>= 2.14), python-six (<= 1.15.0), python-six (>= 1.7.0), python2.7
+Description: python-dependency-injector

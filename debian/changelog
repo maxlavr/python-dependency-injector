@@ -1,0 +1,5 @@
+python-dependency-injector (3.44.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- adminuser <adminuser@debpackages.ext-dc1.o.nkpor.etris>  Thu, 18 Feb 2021 15:38:40 +0300

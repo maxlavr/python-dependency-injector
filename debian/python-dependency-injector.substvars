@@ -1,0 +1,6 @@
+python:Depends=python (<< 2.8), python (>= 2.7~), python-six (>= 1.7.0), python-six (<= 1.15.0), python:any (<< 2.8), python:any (>= 2.7.5-5~), python:any (>= 2.7~)
+python:Provides=python2.7-dependency-injector
+python:Versions=2.7
+shlibs:Depends=libc6 (>= 2.14)
+misc:Depends=
+misc:Pre-Depends=
