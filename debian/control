@@ -1,6 +1,6 @@
 Source: python-dependency-injector
 Priority: optional
-Maintainer: niitp
+Maintainer: maxlavr <mr.lavrovichev@gmail.com>
 Build-Depends: debhelper (>= 9),
 		dh-python,
 		cython,
